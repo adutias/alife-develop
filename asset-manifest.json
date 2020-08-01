@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alife-develop/static/css/main.779b742e.chunk.css",
+    "main.js": "/alife-develop/static/js/main.74eb19ae.chunk.js",
+    "main.js.map": "/alife-develop/static/js/main.74eb19ae.chunk.js.map",
+    "runtime-main.js": "/alife-develop/static/js/runtime-main.d8a6924e.js",
+    "runtime-main.js.map": "/alife-develop/static/js/runtime-main.d8a6924e.js.map",
+    "static/js/2.0a951af5.chunk.js": "/alife-develop/static/js/2.0a951af5.chunk.js",
+    "static/js/2.0a951af5.chunk.js.map": "/alife-develop/static/js/2.0a951af5.chunk.js.map",
+    "index.html": "/alife-develop/index.html",
+    "precache-manifest.ad62a0beae733a4d45292062a42eaa10.js": "/alife-develop/precache-manifest.ad62a0beae733a4d45292062a42eaa10.js",
+    "service-worker.js": "/alife-develop/service-worker.js",
+    "static/css/main.779b742e.chunk.css.map": "/alife-develop/static/css/main.779b742e.chunk.css.map",
+    "static/js/2.0a951af5.chunk.js.LICENSE.txt": "/alife-develop/static/js/2.0a951af5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8a6924e.js",
+    "static/js/2.0a951af5.chunk.js",
+    "static/css/main.779b742e.chunk.css",
+    "static/js/main.74eb19ae.chunk.js"
+  ]
+}
